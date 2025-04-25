@@ -18,6 +18,8 @@ features
 					RegularWishlist
 					CollectionWishlist
 			Review
+				optional
+					ReviewRating
 
 constraints
 	Review => Hotel
