@@ -13,7 +13,10 @@ features
 			Blog
 				optional
 					LikeBlog
-			Wishlist
+			Wishlist {abstract true}
+				alternative
+					RegularWishlist
+					CollectionWishlist
 			Review
 
 constraints
