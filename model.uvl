@@ -20,6 +20,7 @@ features
 			Review
 				optional
 					ReviewRating
+			Cart
 
 constraints
 	Review => Hotel
