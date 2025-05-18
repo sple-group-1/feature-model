@@ -6,7 +6,6 @@ features
 			Booking {abstract true}
 				or
 					Hotel
-					Flight
 					Event
 			Order
 		optional
